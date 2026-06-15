@@ -1,36 +1,24 @@
-Weekly Progress Log
+## Week 1
 
-Week 1
-
-Objective
-
+### Objective
 Build the foundation for Python, GitHub, terminal usage and technical documentation.
 
-Completed
+### Completed
+- Initial repository setup.
+- Codespaces environment configured.
+- Base portfolio structure created.
+- Technical roadmap documented.
+- Day 1 Python file prepared.
 
-* Created the main GitHub repository.
-* Opened and tested GitHub Codespaces.
-* Created the base project structure.
-* Created README.md.
-* Created roadmap.md.
-* Created weekly-log.md.
+### Evidence
+- Public repository initialized.
+- First commits pushed to GitHub.
+- Python practice folder created.
 
-Technical Focus
+### Next Actions
+- Complete Python variables, lists and functions.
+- Create first executable Python scripts.
+- Commit and push completed Day 1 practice.
 
-* GitHub repository setup.
-* Codespaces environment setup.
-* Basic terminal navigation.
-* Markdown documentation structure.
-
-Evidence
-
-* Repository initialized.
-* Base folders created.
-* Technical roadmap documented.
-* Weekly progress log created.
-
-Next Actions
-
-* Make the first Git commit.
-* Create the first Python practice file.
-* Start Day 1 Python basics.
+### Weekly Review
+To be completed at the end of the week.
